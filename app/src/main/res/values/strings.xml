@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UITEST</string>
+    <string name="title_home">Home</string>
+    <string name="title_topup">Top Up</string>
+    <string name="title_reports">Reports</string>
+    <string name="title_more">More</string>
+    <string name="title_support">Support</string>
+    <string name="project_name">Interswitch Wallet</string>
+</resources>
